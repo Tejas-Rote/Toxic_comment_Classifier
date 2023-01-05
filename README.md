@@ -1,11 +1,11 @@
-#Basic setup
+# Basic setup
 1. Clone the repo to your local directory 
 2. Create a new environment through Anaconda Prompt
 - Enter 'conda env create -f toxic_test.yml'
 - Enter 'python -m ipykernel install --user --name toxic --display-name toxic
 - Enter 'conda activate toxic' (you can deactivate the env later)
 
-### How to run the Flask app: 
+# How to run the Flask app: 
 1. Open Anaconda Prompt
 2. Change directory to 'Flask app for toxic comments' (cd .....)
 3. Enter 'python toxic_app.py' to run the Python file
