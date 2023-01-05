@@ -1,4 +1,4 @@
-##Basic setup
+#Basic setup
 1. Clone the repo to your local directory 
 2. Create a new environment through Anaconda Prompt
 - Enter 'conda env create -f toxic_test.yml'
